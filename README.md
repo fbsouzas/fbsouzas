@@ -8,8 +8,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbsouzas&layout=compact&theme=dracula">
 
-<br>
-
 ### Contact me 📞
 
 [Linkedin](https://www.linkedin.com/in/fabiosouzas) <br>
