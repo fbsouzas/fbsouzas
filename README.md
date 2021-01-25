@@ -9,9 +9,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbsouzas&layout=compact&theme=dracula">
 
 <br>
-<br>
 
 ### Contact me 📞
 
-👜 [Linkedin](https://www.linkedin.com/in/fabiosouzas) <br>
-📭 [Email](mailto:fsouza.me@gmail.com)
+[Linkedin](https://www.linkedin.com/in/fabiosouzas) <br>
+[Email](mailto:fsouza.me@gmail.com)
