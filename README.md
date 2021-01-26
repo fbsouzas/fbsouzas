@@ -1,6 +1,6 @@
 ## Welcome! Hey, I'm Fábio! 👋
 
-💻 Software Engineer / Sotware Developer <br>
+💻 Software Engineer / Software Developer <br>
 
 <br>
 
